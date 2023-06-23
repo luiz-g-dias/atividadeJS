@@ -1,0 +1,19 @@
+body {
+    vertical-align: middle;
+    background-color: rgb(251, 240, 255);
+}
+.cadastro {
+    background-color: rgb(162, 162, 211);
+    padding: 10px;
+    display: inline-flex;
+    border-radius: 25px;
+    margin: 150px 40% auto;
+    align-items: center;
+}
+
+.cadastro input{
+    height: 10px;
+    width: 200px;
+
+}
+
